@@ -24,7 +24,6 @@ namespace DeMolClassLibrary.DataAccess
             
         }
 
-
         public static Spel GetSpelById(int spelId)
         {
            

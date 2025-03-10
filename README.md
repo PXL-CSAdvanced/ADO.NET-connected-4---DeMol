@@ -120,8 +120,8 @@ ProfileWindow voor een mol
     * Zolang de checkbox niet is aangevinkt, maakt het programma achterliggend gebruik van SqlParameter’s om de naam en wachtwoord van een speler door te geven aan het SqlCommand.
     * Zolang de checkbox is aangevinkt, maakt het programma achterliggend gebruik van string interpolatie om de naam en wachtwoord van een speler door te geven aan het SqlCommand.
 
->  [!TIP]
-
+> [!TIP]
+> Nog enkele tips:
 1. *Maak gebruik van een methode ZetKleur(Color kleur) die de tekst in het profielvenster van kleur verandert.*
 2. *Maak gebruik van een methode GetSpel die het spel van de speler ophaalt uit de database.*
 3. *Het aanpassen van een imagesource doe je mbv een BitmapImage en een Uri.*
